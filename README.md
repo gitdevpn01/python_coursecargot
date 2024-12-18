@@ -1,4 +1,4 @@
-# Jeux en ligne de commande d'une course d'escargots
+# Jeu en ligne de commande d'une course d'escargots
 
 - Installer **python** [https://www.python.org/](https://www.python.org/)
 - Lancer le jeu : 
